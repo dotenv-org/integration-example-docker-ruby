@@ -39,7 +39,7 @@ $ docker run -e $(cat .env.me) --rm -it -p 8080:8080 --init dotenv-org/integrati
 Running in production
 
 ```
-docker run -e DOTENV_ME=place-your-it-token-here --rm -it -p 8080:8080 --init dotenv-org/integration-example-docker-ruby
+docker run -e DOTENV_ME=PLACE_YOUR_IT_TOKEN_HERE --rm -it -p 8080:8080 --init dotenv-org/integration-example-docker-ruby
 ```
 
 In production replace the value of DOTENV_ME with your DOTENV_IT token for the particular environment.
