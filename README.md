@@ -2,7 +2,7 @@ Works with [dotenv-vault](https://github.com/dotenv-org/dotenv-vault). Learn mor
 
 # integration-example-docker-ruby
 
-<img src="https://raw.githubusercontent.com/dotenv-org/integration-example-docker/master/docker.png" alt="docker" /><img src="https://raw.githubusercontent.com/dotenv-org/integration-example-docker/master/dotenv.png" alt="dotenv" />
+<img src="https://raw.githubusercontent.com/dotenv-org/integration-example-docker-ruby/master/docker.png" alt="docker" /><img src="https://raw.githubusercontent.com/dotenv-org/integration-example-docker-ruby/master/dotenv.png" alt="dotenv" /><img src="https://raw.githubusercontent.com/dotenv-org/integration-example-docker-ruby/master/ruby.png" alt="ruby" />
 
 Example Docker + Dotenv integration in Ruby.
 
