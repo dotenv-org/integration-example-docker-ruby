@@ -6,6 +6,8 @@ Works with [dotenv-vault](https://github.com/dotenv-org/dotenv-vault). Learn mor
 
 Example Docker + Dotenv integration in Ruby.
 
+![using dotenv-vault](https://img.shields.io/static/v1?label=using&message=dotenv-vault&color=yellow)
+
 ## Development
 
 #### Quick use - build & run
