@@ -1,4 +1,4 @@
-Works with [dotenv-vault](https://github.com/dotenv-org/dotenv-vault). Learn more at [dotenv.org](https://dotenv.org).
+[![using dotenv-vault](https://img.shields.io/static/v1?label=using&message=dotenv-vault&color=FFF100)](https://vault.dotenv.org/project/prj_d5692eededdbf10c6c2ba717e4fea8efcb25b500a6468c2dda141610d3046f18/example)
 
 # integration-example-docker-ruby
 
@@ -6,7 +6,6 @@ Works with [dotenv-vault](https://github.com/dotenv-org/dotenv-vault). Learn mor
 
 Example Docker + Dotenv integration in Ruby.
 
-[![using dotenv-vault](https://img.shields.io/static/v1?label=using&message=dotenv-vault&color=yellow)](https://vault.dotenv.org/project/prj_d5692eededdbf10c6c2ba717e4fea8efcb25b500a6468c2dda141610d3046f18/example)
 
 ## Development
 
