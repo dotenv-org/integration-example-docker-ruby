@@ -1,4 +1,4 @@
-[![using dotenv-vault](https://img.shields.io/static/v1?label=using&message=dotenv-vault&color=FFF100)](https://vault.dotenv.org/project/prj_d5692eededdbf10c6c2ba717e4fea8efcb25b500a6468c2dda141610d3046f18/example)
+[![uses dotenv-vault](https://img.shields.io/static/v1?label=using&message=dotenv-vault&color=FFF100)](https://vault.dotenv.org/project/prj_d5692eededdbf10c6c2ba717e4fea8efcb25b500a6468c2dda141610d3046f18/example)
 
 # integration-example-docker-ruby
 
